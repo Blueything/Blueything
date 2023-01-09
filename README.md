@@ -20,4 +20,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Blueything&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=Blueything&label=99&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
