@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 # 💫 About Me:
-😎 I am Software Engineering student with a passion for Markets, Data and Science<br>📫 Shoot me an Email or add me on LinkedIn:)
+😎 I am an AI Fullstack Engineer with a passion for Solving problems-  Markets, Data and Science<br>
+📫 Shoot me an Email or add me on LinkedIn:)
 
 
 ## 🌐 Socials:
