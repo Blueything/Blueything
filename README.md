@@ -1,4 +1,3 @@
-<img src="https://github.com/Blueything/Blueything/blob/main/assets/banner.png?raw=true" alt="Hardik Ghori - AI Fullstack Engineer" style="border-radius:12px;"/>
 
 <!-- Optional: if you don't have a banner yet, create one on Canva (1920×640) with dark cosmic theme + your name + "AI Fullstack Engineer" -->
 
