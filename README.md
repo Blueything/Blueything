@@ -4,7 +4,7 @@
 <div align="center">
 
 # Hardik Ghori
-### 🤖 AI Fullstack Engineer · Quant · Problem Destroyer
+### 🤖 AI Fullstack Engineer · Quant · Problem Solver
 
 **I build production-grade AI systems that make money, predict markets, and push science forward.**
 
@@ -21,7 +21,7 @@ Currently obsessed with → **LLMs in trading | Real-time data pipelines | Auton
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/hardik-ghori99/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&style=for-the-badge)](mailto:hardik.ghori@proton.me)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&style=for-the-badge)](mailto:hardikghori3@gmail.com)
 [![Portfolio (coming Q1 2025)](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?logo=googlechrome&style=for-the-badge)](#)
 
 <br/>
