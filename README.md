@@ -11,7 +11,7 @@
 Currently obsessed with → **LLMs in trading | Real-time data pipelines | Autonomous agents | Edge AI**
 
 🔥 **Available for hire / consulting (2025 Q1–Q2)**  
-📩 hardik.ghori@proton.me | dm always open
+📩 hardik.ghori3@gmail.com | dm always open
 
 </div>
 
